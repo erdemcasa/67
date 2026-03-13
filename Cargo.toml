@@ -1,0 +1,8 @@
+[package]
+name = "six-seven-counter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rfd = "0.14"
+image = "0.24"
